@@ -6,6 +6,13 @@
     outline: none;
     background-color:burlywood ;
 }
+H1{
+    text-align: center; 
+    padding-top: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 5px red;
+    font-size: 35px;
+}
 .container{
     height: 100vh;
     display: flex;
